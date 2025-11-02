@@ -27,8 +27,7 @@ permalink: /cv/
 ---
 
 #### Projects
-- **Brickbot**:  
-  *Cornell University*  
+- **Brickbot**  
   - Worked with 4 other Combat Robotics @ Cornell engineers to design and produce a 12lb combat robot with 10+ removable attachments for drive practice and marketing at school events, attracting 20+ applicants for the team
 
 ---
@@ -42,7 +41,7 @@ permalink: /cv/
   - Prototyped chassis attachments using 3D printing and manual machining, increasing structural integrity by 67%
   - Designed circuit diagrams and supervised the production, testing, and troubleshooting of the electronic components for 2 different robots to ensure functioning drivetrain and weapon, achieving a 100% success rate
 
-**Organic Robotics Laboratory - Undergraduate Research Assistant**  
+- **Organic Robotics Laboratory - Undergraduate Research Assistant**  
   May, 2025 - August, 2025  
   - Contributed to the testing and development of an underwater octopus robot to further research into soft robotics
   - Utilized Fusion 360 to ideate and model a 6’x4’x2’ underwater structure to test the mobility of the robot

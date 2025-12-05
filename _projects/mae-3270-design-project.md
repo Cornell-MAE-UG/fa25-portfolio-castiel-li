@@ -12,35 +12,35 @@ For MAE 3270, I was assigned to design a non-ratcheting, 3/8 inch drive instrume
 I iterated the design, modifying the geometry as well as the material, using MATLAB before modeling the  design using Fusion.
 <div style="clear: both;"></div>
 
-![Dimensions]({{ "/assets/images/mae-3270-design-project/dimensions.png" | relative_url }}){:. style="width: 400px"}
+![Dimensions]({{ "/assets/images/mae-3270-design-project/dimensions.png" | relative_url }}){:. style="width: 600px"}
 
 I used Ti-6Al-4V (aged) as the material as it has a relatively low Young's modulus, for maximizing the output, and adequate yield strength, fracture toughness, and fatigue strength, for maximizing the safety factors.
 <div style="clear: both;"></div>
 
-![Material properties]({{ "/assets/images/mae-3270-design-project/material-properties.png" | relative_url }}){:. style="width: 400px"}
+![Material properties]({{ "/assets/images/mae-3270-design-project/material-properties.png" | relative_url }}){:. style="width: 600px"}
 
 I created boundary conditions and loaded the torque wrench using Ansys, setting the displacement at the drive to 0 in all directions and applying a force of 37.5 lbf in the Y direction at the end of the torque wrench.
 <div style="clear: both;"></div>
 
-![Boundary conditions]({{ "/assets/images/mae-3270-design-project/boundary-conditions.png" | relative_url }}){:. style="width: 400px"}
+![Boundary conditions]({{ "/assets/images/mae-3270-design-project/boundary-conditions.png" | relative_url }}){:. style="width: 600px"}
 
-![Load]({{ "/assets/images/mae-3270-design-project/load.png" | relative_url }}){:. style="width: 400px"}
+![Load]({{ "/assets/images/mae-3270-design-project/load.png" | relative_url }}){:. style="width: 600px"}
 
 I modeled the normal strain and maximum principal stress.
 <div style="clear: both;"></div>
 
-![Normal strain]({{ "/assets/images/mae-3270-design-project/normal-strain.png" | relative_url }}){:. style="width: 400px"}
+![Normal strain]({{ "/assets/images/mae-3270-design-project/normal-strain.png" | relative_url }}){:. style="width: 600px"}
 
-![Maximum principal stress]({{ "/assets/images/mae-3270-design-project/maximum-principal-stress.png" | relative_url }}){:. style="width: 400px"}
+![Maximum principal stress]({{ "/assets/images/mae-3270-design-project/maximum-principal-stress.png" | relative_url }}){:. style="width: 600px"}
 
 I also modeled the normal stress, the deformation, and the strain at the strain gauge location.
 <div style="clear: both;"></div>
 
-![Normal stress]({{ "/assets/images/mae-3270-design-project/normal-stress.png" | relative_url }}){:. style="width: 400px"}
+![Normal stress]({{ "/assets/images/mae-3270-design-project/normal-stress.png" | relative_url }}){:. style="width: 600px"}
 
-![Deformation]({{ "/assets/images/mae-3270-design-project/deformation.png" | relative_url }}){:. style="width: 400px"}
+![Deformation]({{ "/assets/images/mae-3270-design-project/deformation.png" | relative_url }}){:. style="width: 600px"}
 
-![Strain gauge location]({{ "/assets/images/mae-3270-design-project/strain-gauge.png" | relative_url }}){:. style="width: 400px"}
+![Strain gauge location]({{ "/assets/images/mae-3270-design-project/strain-gauge.png" | relative_url }}){:. style="width: 600px"}
 
 The maximum normal stress was 27.958 ksi, the load point deflection was 0.3722 in, and the strain at the strain gauge location was 1084.2 microstrains.
 <div style="clear: both;"></div>

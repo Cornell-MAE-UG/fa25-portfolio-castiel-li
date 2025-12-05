@@ -2,13 +2,11 @@
 layout: project
 title: MAE 3270 Design Project
 description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+technologies: [MATLAB, Autodesk Fusion 360, Ansys]
 image: /assets/images/mae-3270-design-project/cad.png
 ---
 
 For MAE 3270, I was assigned to design a non-ratcheting, 3/8 inch drive instrumental torque wrench rated for 600 in-lbf. The design was required to attain at least an 1 mV/V output at the rated torque of 600 in-lbf, a safety factor of at least 4 for yield or brittle failure, a safety factor of at least 2 for crack growth, and a fatigue stress factor of at least 1.5. The material used must also be a steel, aluminum, or titanium alloy.
-
-![CAD]({{ "/assets/images/mae-3270-design-project/cad.png" | relative_url }}){: .inline-image-r style="width: 600px"}
 
 I iterated the design, modifying the geometry as well as the material, using MATLAB before modeling the  design using Fusion.
 

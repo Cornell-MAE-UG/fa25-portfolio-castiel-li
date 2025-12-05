@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3270 Design Project
 description: Advanced CAD Project
-technologies: [Autodesk Fusion][MATLAB][Ansys]
+technologies: [Autodesk Fusion]
 image: /assets/images/mae-3270-design-project/cad.png
 ---
 

@@ -48,4 +48,4 @@ The maximum normal stress was 27.958 ksi, the load point deflection was 0.3722 i
 I calculated the torque wrench sensitivity using the strain from the model and obtained 1.0842 mV/V.
 <div style="clear: both;"></div>
 
-I selected
+I selected a SGD-3/350-LY13 strain gauge from DwyerOmega with a 7 mm carrier length and a 4 mm carrier width.

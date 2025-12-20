@@ -6,7 +6,7 @@ technologies: [N/A]
 image: /assets/images/engrd-2210-analysis/photo.png
 ---
 
-For ENGRD 2210, I was assigned to select a real-world device and to analyze it in a thermodynamic context. I selected the Speedway Chevy SBC/BBC Universal Aluminum Radiator.
+For ENGRD 2210, I was assigned to select a real-world instance of a device or system that has been covered in the course, to explain how it works in detail, and to discuss how its performance would change under a change in design or operating conditions. I selected the **Speedway Chevy SBC/BBC Universal Aluminum Radiator**.
 
 ---
 

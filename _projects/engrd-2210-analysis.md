@@ -6,7 +6,7 @@ technologies: [N/A]
 image: /assets/images/engrd-2210-analysis/photo.png
 ---
 
-For ENGRD 2210, I was assigned to select a real-world instance of a device or system that has been covered in the course, to explain how it works in detail, and to discuss how its performance would change under a change in design or operating conditions. I selected the **Speedway Chevy SBC/BBC Universal Aluminum Radiator**.
+For ENGRD 2210, I was assigned to select a real-world instance of a device or system that has been covered in the course, to explain how it works in detail, and to discuss how its performance would change under a change in design or operating conditions. I selected the Speedway Chevy SBC/BBC Universal Aluminum Radiator.
 
 ---
 
@@ -28,7 +28,7 @@ The radiator works as a heat exchanger between the coolant that circulates throu
 #### Assumptions
 - Steady-state
 - The system does not do work
-- There is no heat transfer between the system and surroundings
+- There is no heat transfer between the system and the surroundings
 - Negligible kinetic and potential energy changes
 - Mass flow rate = 2.5 kg/s for coolant
 - Constant specific heat = 4.18 kJ/kg K for coolant

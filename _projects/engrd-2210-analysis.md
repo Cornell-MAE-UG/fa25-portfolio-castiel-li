@@ -2,7 +2,7 @@
 layout: project
 title: ENGRD 2210 Analysis
 description: Thermodynamic Analysis
-technologies: [N/A}]
+technologies: [N/A]
 image: /assets/images/engrd-2210-analysis/photo.png
 ---
 

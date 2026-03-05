@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3240 Analysis
 description: Heat Transfer Analysis
-technologies: [N/A}]
+technologies: [N/A]
 image: /assets/images/mae-3240-analysis/water-heater.png
 ---
 

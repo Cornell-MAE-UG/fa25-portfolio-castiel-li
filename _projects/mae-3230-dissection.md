@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3230 Dissection
 description: Fluid Machine Dissection
-technologies:
+technologies: [N/A}]
 image: /assets/images/mae-3230-dissection/propane-tank.png
 ---
 
